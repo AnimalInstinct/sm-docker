@@ -1,0 +1,106 @@
+2020/07/23 11:00:09 [notice] 14#14: signal process started
+2020/07/24 05:45:18 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:18 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:18 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:45:19 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:19 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:19 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:45:20 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:20 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:20 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:45:21 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:21 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:21 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:45:22 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:22 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:22 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:45:25 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:25 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:25 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:45:29 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:29 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:29 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:45:36 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:36 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:36 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:45:49 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:45:49 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:45:49 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:46:15 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:46:15 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:46:15 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:47:07 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:47:07 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:47:07 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:47:53 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:47:53 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:47:53 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:47:54 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:47:54 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:47:54 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:47:55 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:47:55 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:47:55 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:47:56 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:47:56 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:47:56 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:47:57 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:47:57 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:47:57 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:48:00 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:48:00 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:48:00 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:48:04 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:48:04 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:48:04 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:48:11 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:48:11 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:48:11 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:48:24 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:29
+2020/07/24 05:48:24 [warn] 1#1: the "ssl" directive is deprecated, use the "listen ... ssl" directive instead in /etc/nginx/conf.d/app.conf:46
+2020/07/24 05:48:24 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:64
+2020/07/24 05:48:51 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:62
+2020/07/24 05:49:43 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:62
+2020/07/24 05:50:43 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 05:51:44 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 05:52:45 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 05:53:46 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/live/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/live/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 05:54:46 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 05:55:47 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 05:56:48 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 05:57:48 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 05:58:49 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 05:59:50 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 06:00:50 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 06:01:51 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 06:02:52 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 06:03:52 [emerg] 1#1: no "ssl_certificate" is defined for the "listen ... ssl" directive in /etc/nginx/conf.d/app.conf:23
+2020/07/24 06:04:53 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:05:54 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:06:55 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:07:55 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:08:56 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:09:43 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:09:44 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:09:45 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:09:46 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:09:48 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:09:50 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:09:54 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 06:10:01 [emerg] 1#1: cannot load certificate "/etc/letsencrypt/sabaimotors.com/fullchain.pem": BIO_new_file() failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/etc/letsencrypt/sabaimotors.com/fullchain.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2020/07/24 07:58:35 [error] 6#6: *20 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 192.168.48.1, server: sabaimotors.com, request: "GET / HTTP/1.1", host: "sabaimotors.com:5443"
+2020/07/24 07:58:35 [error] 6#6: *22 rewrite or internal redirection cycle while internally redirecting to "/index.php", client: 192.168.48.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", host: "sabaimotors.com:5443", referrer: "https://sabaimotors.com:5443/"
+2020/07/24 07:59:52 [error] 9#9: *2 "/var/www/sabaimotors.com/public_html/index.php" is not found (2: No such file or directory), client: 192.168.80.1, server: sabaimotors.com, request: "GET / HTTP/1.1", host: "sabaimotors.com:5443"
+2020/07/24 07:59:52 [error] 9#9: *2 open() "/var/www/sabaimotors.com/public_html/favicon.ico" failed (2: No such file or directory), client: 192.168.80.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", host: "sabaimotors.com:5443", referrer: "https://sabaimotors.com:5443/"
+2020/07/24 08:01:56 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:01:58 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:01:59 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:02:00 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:02:02 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:02:04 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:02:09 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:02:16 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:02:29 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:02:56 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
+2020/07/24 08:03:23 [error] 6#6: *2 directory index of "/var/www/public_html/" is forbidden, client: 192.168.208.1, server: sabaimotors.com, request: "GET / HTTP/1.1", host: "sabaimotors.com:5443"
+2020/07/24 08:04:19 [error] 6#6: *2 directory index of "/var/www/public_html/" is forbidden, client: 192.168.208.1, server: sabaimotors.com, request: "GET / HTTP/1.1", host: "sabaimotors.com:5443"
