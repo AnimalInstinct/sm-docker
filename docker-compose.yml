@@ -5,7 +5,7 @@ networks:
     driver: bridge
 
 services:
-  app:
+  laravel:
     build:
       context: .
       dockerfile: Dockerfile
@@ -14,7 +14,7 @@ services:
     restart: unless-stopped
     tty: true
     volumes:
-      - ../:/var/www/
+      - ../sm-laravel:/var/www/
       - ./php/local.ini:/usr/local/etc/php/conf.d/local.ini
     networks:
       - sabaimotors
@@ -28,13 +28,13 @@ services:
       - '8080:8080'
       - '5443:5443'
     volumes:
-      - ../:/var/www
+      - ../sm-laravel:/var/www
       - ./nginx/conf.d/:/etc/nginx/conf.d/
       - ./nginx/logs:/var/log/nginx/
       - ./data/certbot/conf:/etc/letsencrypt
       - ./data/certbot/www:/var/www/certbot
     depends_on:
-      - app
+      - laravel
       - mysql
     networks:
       - sabaimotors
@@ -70,10 +70,10 @@ services:
     image: composer:latest
     container_name: composer
     volumes:
-      - ../:/var/www/public_html
+      - ../sm-laravel:/var/www/public_html
     working_dir: /var/www/public_html
     depends_on:
-      - app
+      - laravel
     networks:
       - sabaimotors
 

@@ -104,3 +104,12 @@
 2020/07/24 08:02:56 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/app.conf:58
 2020/07/24 08:03:23 [error] 6#6: *2 directory index of "/var/www/public_html/" is forbidden, client: 192.168.208.1, server: sabaimotors.com, request: "GET / HTTP/1.1", host: "sabaimotors.com:5443"
 2020/07/24 08:04:19 [error] 6#6: *2 directory index of "/var/www/public_html/" is forbidden, client: 192.168.208.1, server: sabaimotors.com, request: "GET / HTTP/1.1", host: "sabaimotors.com:5443"
+2020/07/24 08:30:48 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
+2020/07/24 08:30:49 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
+2020/07/24 08:30:50 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
+2020/07/24 08:30:51 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
+2020/07/24 08:30:53 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
+2020/07/24 08:30:55 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
+2020/07/24 08:30:59 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
+2020/07/24 08:31:07 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
+2020/07/24 08:31:23 [emerg] 1#1: host not found in upstream "app" in /etc/nginx/conf.d/app.conf:11
