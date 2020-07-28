@@ -1,82 +1,20 @@
-version: '3'
+version: '3.7'
+
+services:
+  nginx:
+    image: nginx:stable-alpine
+    container_name: reverse-proxy
+    restart: unless-stopped
+    tty: true
+    ports:
+      - '80:80'
+      - '443:443'
+    volumes:
+      - ./nginx/conf.d/:/etc/nginx/conf.d/
+      - ./nginx/logs:/var/log/nginx/
+    networks:
+      - sabaimotors
 
 networks:
   sabaimotors:
     driver: bridge
-
-services:
-  laravel:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    image: sabaimotors
-    container_name: sabaimotors-app
-    restart: unless-stopped
-    tty: true
-    volumes:
-      - ../sm-laravel:/var/www/
-      - ./php/local.ini:/usr/local/etc/php/conf.d/local.ini
-    networks:
-      - sabaimotors
-
-  nginx:
-    image: nginx:stable-alpine
-    container_name: sabaimotors-nginx
-    restart: unless-stopped
-    tty: true
-    ports:
-      - '8080:8080'
-      - '5443:5443'
-    volumes:
-      - ../sm-laravel:/var/www
-      - ./nginx/conf.d/:/etc/nginx/conf.d/
-      - ./nginx/logs:/var/log/nginx/
-      - ./data/certbot/conf:/etc/letsencrypt
-      - ./data/certbot/www:/var/www/certbot
-    depends_on:
-      - laravel
-      - mysql
-    networks:
-      - sabaimotors
-
-  certbot:
-    image: certbot/certbot
-    volumes:
-      - ./data/certbot/conf:/etc/letsencrypt
-      - ./data/certbot/www:/var/www/certbot
-
-  mysql:
-    image: mysql:5.7.29
-    container_name: sabaimotors-mysql
-    restart: unless-stopped
-    tty: true
-    ports:
-      - '3306:3306'
-    environment:
-      MYSQL_DATABASE: sabaimotors
-      MYSQL_USER: sabaimotors
-      MYSQL_PASSWORD: FenderCrawlerGringo38*
-      MYSQL_ROOT_PASSWORD: FenderCrawlerGringo38*
-      SERVICE_TAGS: dev
-      SERVICE_NAME: mysql
-    volumes:
-      - dbdata:/var/lib/mysql/
-      - ./mysql:/docker-entrypoint-initdb.d
-      - ./mysql/my.cnf:/etc/mysql/my.cnf
-    networks:
-      - sabaimotors
-
-  composer:
-    image: composer:latest
-    container_name: composer
-    volumes:
-      - ../sm-laravel:/var/www/public_html
-    working_dir: /var/www/public_html
-    depends_on:
-      - laravel
-    networks:
-      - sabaimotors
-
-volumes:
-  dbdata:
-    driver: local

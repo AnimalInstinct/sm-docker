@@ -1,34 +1,7 @@
-FROM php:7.2-fpm
+FROM nginx:1.12
 
-# Arguments defined in docker-compose.yml
-ARG user
-ARG uid
+#  default conf for proxy service
+COPY ./default.conf /etc/nginx/conf.d/default.conf
 
-# Install system dependencies
-RUN apt-get update && apt-get install -y \
-    git \
-    curl \
-    libpng-dev \
-    libonig-dev \
-    libxml2-dev \
-    zip \
-    unzip
-
-# Clear cache
-RUN apt-get clean && rm -rf /var/lib/apt/lists/*
-
-# Install PHP extensions
-RUN docker-php-ext-install pdo_mysql mbstring exif pcntl bcmath gd
-
-# Get latest Composer
-COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
-
-# Create system user to run Composer and Artisan Commands
-RUN useradd -G www-data,root -u 1000 -d /home/alex alex
-RUN mkdir -p /home/alex/.composer && \
-    chown -R alex:alex /home/alex
-
-# Set working directory
-WORKDIR /var/www
-
-USER $user
+# Proxy configurations
+COPY ./includes/ /etc/nginx/includes/
