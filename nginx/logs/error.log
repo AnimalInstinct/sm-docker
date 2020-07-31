@@ -1,121 +1,208 @@
-2020/07/27 16:01:05 [error] 28#28: *22 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/27 16:01:15 [error] 28#28: *26 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "cp.sabaimotors.com"
-2020/07/27 16:01:16 [error] 28#28: *26 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/27 16:01:17 [error] 28#28: *29 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "cp.sabaimotors.com"
-2020/07/27 16:01:17 [error] 28#28: *29 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/27 16:01:17 [error] 28#28: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "cp.sabaimotors.com"
-2020/07/27 16:01:17 [error] 28#28: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/27 16:03:18 [error] 28#28: *35 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "cp.sabaimotors.com"
-2020/07/27 16:03:18 [error] 28#28: *35 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/27 16:03:43 [error] 28#28: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "cp.sabaimotors.com"
-2020/07/27 16:03:43 [error] 28#28: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/27 16:03:44 [error] 28#28: *41 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "cp.sabaimotors.com"
-2020/07/27 16:03:44 [error] 28#28: *41 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/27 16:03:44 [error] 28#28: *44 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "cp.sabaimotors.com"
-2020/07/27 16:03:44 [error] 28#28: *44 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/27 16:03:44 [error] 28#28: *47 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "cp.sabaimotors.com"
-2020/07/27 16:03:44 [error] 28#28: *47 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.96.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/27 16:04:19 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/27 16:04:20 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/27 16:04:20 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/27 16:04:20 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/27 16:04:21 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/28 00:43:29 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/languages HTTP/1.1", upstream: "http://127.0.0.1:8081/api/languages", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/translations?component_id=9&lang_locale= HTTP/1.1", upstream: "http://127.0.0.1:8081/api/translations?component_id=9&lang_locale=", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/menus?component_id=9&byroles=true HTTP/1.1", upstream: "http://127.0.0.1:8081/api/menus?component_id=9&byroles=true", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8081/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/translations?component_id=17&lang_locale= HTTP/1.1", upstream: "http://127.0.0.1:8081/api/translations?component_id=17&lang_locale=", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8081/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/translations?component_id=9&lang_locale=en HTTP/1.1", upstream: "http://127.0.0.1:8081/api/translations?component_id=9&lang_locale=en", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/menus?component_id=9&byroles=true HTTP/1.1", upstream: "http://127.0.0.1:8081/api/menus?component_id=9&byroles=true", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8081/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/translations?component_id=17&lang_locale=en HTTP/1.1", upstream: "http://127.0.0.1:8081/api/translations?component_id=17&lang_locale=en", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:43:29 [error] 29#29: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8081/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 00:48:27 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/28 00:48:27 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/28 00:48:27 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/28 00:48:28 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
-2020/07/28 00:48:45 [error] 29#29: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "cp.sabaimotors.com"
-2020/07/28 00:48:46 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "cp.sabaimotors.com"
-2020/07/28 00:48:46 [error] 29#29: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/28 00:48:46 [error] 29#29: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "cp.sabaimotors.com"
-2020/07/28 00:48:46 [error] 29#29: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/28 00:48:47 [error] 29#29: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "cp.sabaimotors.com"
-2020/07/28 00:48:47 [error] 29#29: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/28 00:48:47 [error] 29#29: *17 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "cp.sabaimotors.com"
-2020/07/28 00:48:47 [error] 29#29: *17 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "cp.sabaimotors.com"
-2020/07/28 00:50:00 [error] 29#29: *20 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 00:50:00 [error] 29#29: *20 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "admin.sabaimotors.com", referrer: "http://admin.sabaimotors.com/"
-2020/07/28 01:17:40 [error] 29#29: *25 connect() failed (111: Connection refused) while connecting to upstream, client: 188.169.20.20, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "58.10.238.254:80"
-2020/07/28 02:32:47 [error] 29#29: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/languages HTTP/1.1", upstream: "http://127.0.0.1:8080/api/languages", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *34 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=9&lang_locale= HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=9&lang_locale=", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *35 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/menus?component_id=9&byroles=true HTTP/1.1", upstream: "http://127.0.0.1:8080/api/menus?component_id=9&byroles=true", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *36 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *37 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=17&lang_locale= HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=17&lang_locale=", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *32 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=9&lang_locale=en HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=9&lang_locale=en", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *38 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *36 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/menus?component_id=9&byroles=true HTTP/1.1", upstream: "http://127.0.0.1:8080/api/menus?component_id=9&byroles=true", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *34 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=17&lang_locale=en HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=17&lang_locale=en", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *35 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:32:47 [error] 29#29: *37 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.112.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 02:43:08 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.20.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "cp.sabaimotors.com"
-2020/07/28 02:43:09 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.20.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "cp.sabaimotors.com"
-2020/07/28 02:43:48 [error] 30#30: *2 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.20.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "admin.sabaimotors.com"
-2020/07/28 02:43:48 [error] 30#30: *2 open() "/etc/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.20.0.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", host: "admin.sabaimotors.com"
-2020/07/28 02:46:18 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.21.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "admin.sabaimotors.com"
-2020/07/28 02:46:18 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.21.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "admin.sabaimotors.com"
-2020/07/28 02:46:19 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.21.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "admin.sabaimotors.com"
-2020/07/28 02:46:19 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.21.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "admin.sabaimotors.com"
-2020/07/28 02:46:19 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.21.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "admin.sabaimotors.com"
-2020/07/28 02:46:19 [error] 30#30: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.21.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", host: "admin.sabaimotors.com"
-2020/07/28 02:46:58 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:46:59 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:46:59 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:47:00 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:47:00 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:47:00 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:47:00 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:47:00 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:47:00 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:47:01 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:47:01 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.22.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:50:49 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:50:50 [error] 28#28: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8080/favicon.ico", host: "admin.sabaimotors.com"
-2020/07/28 02:51:01 [error] 28#28: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:51:05 [error] 28#28: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:51:07 [error] 28#28: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.23.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:53:11 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:53:12 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:53:12 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 02:53:12 [error] 31#31: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "admin.sabaimotors.com"
-2020/07/28 03:21:47 [error] 31#31: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 91.243.239.202, server: admin.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8080/", host: "58.10.238.254:80"
-2020/07/28 04:02:15 [error] 31#31: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/languages HTTP/1.1", upstream: "http://127.0.0.1:8080/api/languages", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=9&lang_locale= HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=9&lang_locale=", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/menus?component_id=9&byroles=true HTTP/1.1", upstream: "http://127.0.0.1:8080/api/menus?component_id=9&byroles=true", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=17&lang_locale= HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=17&lang_locale=", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=9&lang_locale=en HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=9&lang_locale=en", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/menus?component_id=9&byroles=true HTTP/1.1", upstream: "http://127.0.0.1:8080/api/menus?component_id=9&byroles=true", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=17&lang_locale=en HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=17&lang_locale=en", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:02:15 [error] 31#31: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/languages HTTP/1.1", upstream: "http://127.0.0.1:8080/api/languages", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=9&lang_locale= HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=9&lang_locale=", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *27 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/menus?component_id=9&byroles=true HTTP/1.1", upstream: "http://127.0.0.1:8080/api/menus?component_id=9&byroles=true", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *28 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *29 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=17&lang_locale= HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=17&lang_locale=", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *30 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *31 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=9&lang_locale=en HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=9&lang_locale=en", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/menus?component_id=9&byroles=true HTTP/1.1", upstream: "http://127.0.0.1:8080/api/menus?component_id=9&byroles=true", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *31 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *24 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/translations?component_id=17&lang_locale=en HTTP/1.1", upstream: "http://127.0.0.1:8080/api/translations?component_id=17&lang_locale=en", host: "localhost", referrer: "http://localhost:8081/"
-2020/07/28 04:21:19 [error] 31#31: *30 connect() failed (111: Connection refused) while connecting to upstream, client: 172.24.0.1, server: admin.sabaimotors.com, request: "OPTIONS /api/countries HTTP/1.1", upstream: "http://127.0.0.1:8080/api/countries", host: "localhost", referrer: "http://localhost:8081/"
+2020/07/30 01:31:25 [error] 29#29: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.64.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
+2020/07/30 01:31:25 [error] 29#29: *108 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.64.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "sabaimotors.com", referrer: "http://sabaimotors.com/"
+2020/07/30 01:31:37 [error] 29#29: *111 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.64.1, server: api.sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8082/", host: "api.sabaimotors.com"
+2020/07/30 01:31:37 [error] 29#29: *111 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.64.1, server: api.sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8082/favicon.ico", host: "api.sabaimotors.com", referrer: "http://api.sabaimotors.com/"
+2020/07/30 01:56:52 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 104.244.78.107, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "58.10.238.254:80", referrer: "http://58.10.238.254:80/left.html"
+2020/07/30 05:27:38 [error] 29#29: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
+2020/07/30 05:27:38 [error] 29#29: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "sabaimotors.com", referrer: "http://sabaimotors.com/"
+2020/07/30 05:27:39 [error] 29#29: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
+2020/07/30 05:27:40 [error] 29#29: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 172.20.0.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "sabaimotors.com", referrer: "http://sabaimotors.com/"
+2020/07/30 05:30:04 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:30:05 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:30:06 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:30:07 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:30:08 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:30:10 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:30:14 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:30:21 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:30:34 [emerg] 1#1: host not found in upstream "react-frontend:8081" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:31:00 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:31:52 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:32:53 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:33:53 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:34:54 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:35:54 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:36:55 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:37:55 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:38:56 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:39:56 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:40:57 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:41:58 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:42:58 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:43:59 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:44:59 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:46:00 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:47:00 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:48:01 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:49:01 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:50:02 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:51:03 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:52:03 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:53:04 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:54:04 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:55:05 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:56:05 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:57:06 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:58:06 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 05:59:07 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 06:01:26 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/30 06:25:47 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
+2020/07/30 06:25:47 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "sabaimotors.com", referrer: "http://sabaimotors.com/"
+2020/07/30 06:25:47 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
+2020/07/30 06:25:47 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "sabaimotors.com", referrer: "http://sabaimotors.com/"
+2020/07/30 06:25:48 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
+2020/07/30 06:25:48 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "sabaimotors.com", referrer: "http://sabaimotors.com/"
+2020/07/30 06:25:48 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
+2020/07/30 06:25:48 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "sabaimotors.com", referrer: "http://sabaimotors.com/"
+2020/07/30 06:40:20 [error] 29#29: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "sabaimotors.com"
+2020/07/30 06:40:20 [error] 29#29: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 172.25.0.1, server: sabaimotors.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:8081/favicon.ico", host: "sabaimotors.com", referrer: "http://sabaimotors.com/"
+2020/07/30 07:54:31 [error] 29#29: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 45.148.10.74, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "58.10.238.254"
+2020/07/30 07:58:32 [error] 29#29: *15 connect() failed (111: Connection refused) while connecting to upstream, client: 36.89.139.207, server: sabaimotors.com, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:8081/", host: "58.10.238.254:80"
+2020/07/31 12:07:36 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:07:37 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:07:38 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:07:39 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:07:40 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:07:43 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:07:46 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:07:53 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:08:07 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:08:33 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:09:25 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:10:25 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:11:26 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:12:26 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:13:27 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:14:28 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:15:28 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:16:29 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:17:29 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:18:30 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:19:31 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:20:31 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:21:32 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:22:33 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:23:33 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:24:34 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:25:34 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:26:35 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:27:36 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:28:36 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:29:37 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:30:37 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:31:38 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:32:38 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:33:39 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:34:40 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:35:40 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:36:41 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:37:41 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:38:42 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:39:43 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:40:43 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:41:44 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:42:44 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:43:45 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:44:46 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:45:46 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:46:47 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:47:48 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:48:48 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:49:49 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:50:49 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:51:50 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:52:51 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:53:51 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:54:52 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:55:52 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:56:53 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:57:54 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:58:54 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 05:59:55 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:00:56 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:01:56 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:02:57 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:03:57 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:04:58 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:05:59 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:06:59 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:08:00 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:09:00 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:10:01 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:11:02 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:12:02 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:13:03 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:14:03 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:15:04 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:16:05 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:17:05 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:18:06 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:19:06 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:20:07 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:21:08 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:22:08 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:23:09 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:24:09 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:25:10 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:26:11 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:27:11 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:28:12 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:29:12 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:30:13 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:31:14 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:32:14 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:33:15 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:34:16 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:35:16 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:36:17 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:37:17 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:38:18 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:39:19 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:40:19 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:41:20 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:42:20 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:43:21 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:44:22 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:45:22 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:46:23 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:47:24 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:48:24 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:49:25 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 06:50:25 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 11:57:34 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 11:58:35 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 11:59:35 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:00:36 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:01:37 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:02:38 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:03:38 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:04:39 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:05:40 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:06:41 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:07:41 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:08:42 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:09:43 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:10:44 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:11:44 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:12:45 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:13:46 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:14:46 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:15:47 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:16:48 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:17:49 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:18:49 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:19:50 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:20:51 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:57:21 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:58:21 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 12:59:22 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:00:23 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:01:23 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:02:24 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:03:25 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:04:25 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:05:26 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:06:27 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:07:27 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:08:28 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6
+2020/07/31 13:09:29 [emerg] 1#1: host not found in upstream "react-frontend" in /etc/nginx/conf.d/default.conf:6

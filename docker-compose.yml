@@ -1,4 +1,4 @@
-version: '3.7'
+version: '3'
 
 services:
   nginx:
@@ -11,6 +11,7 @@ services:
       - '443:443'
     volumes:
       - ./nginx/conf.d/:/etc/nginx/conf.d/
+      - ./nginx/includes/:/etc/nginx/includes/
       - ./nginx/logs:/var/log/nginx/
     networks:
       - sabaimotors
